@@ -1,0 +1,5 @@
+name: Axelerant
+type: module
+description: 'Custom module for Axelerant interview process.'
+core_version_requirement: ^8 || ^9
+package: Custom
